@@ -3,7 +3,7 @@
 **Running the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/travel_ui_ux.git
+git clone git@github.com:itsmeabhishek03/Travel---UI-UX-.git
 cd travel_ui_ux
 ```
 
